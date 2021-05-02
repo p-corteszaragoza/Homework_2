@@ -1,0 +1,48 @@
+/*https://fonts.google.com/*/
+
+body{
+	font-family: 'Lato', sans-serif;
+	margin: 50px;
+	background: #e1f0ff;
+}
+span{
+	font-weight: bold; 
+}
+.title{
+	font-family: 'Krona One', sans-serif;
+    font-weight: bold;
+    font-size: 58px;
+    color: #020202;
+    text-align: center;
+    text-shadow: 6px 3px #ffc107;
+    background-color: #0092d4;
+    padding: 58px;
+	margin: 0px;
+	border: 15px solid #ffc107;
+}
+.subtitle{
+	font-family: 'Roboto', sans-serif;
+	font-size: 24px; 
+	color: #9c9c9c; 
+	background-color: #0092d4; 
+	text-align: center; 
+	height: 32px; 
+	padding: 3px; 
+	text-shadow: -3px -2px black;
+	border:1px solid black;
+}
+#description-underline{
+	font-weight: normal;
+	text-decoration: underline;
+}
+#info-mark{
+	background-color: #ffc107;
+	margin-left: 50px;
+}
+#info-italic{
+	margin-left: 140px;
+}
+#field{
+	font-weight: bold;
+	margin-left: 450px;
+}
